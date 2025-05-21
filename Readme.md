@@ -21,8 +21,8 @@ This is an **Emergency Dispatch System** built using **Node.js, Express, and Mon
 ## 🚀 Setup & Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/Clifford537/Ambulance_dispatch-_system.git
-cd Ambulance_dispatch-_system
+git clone https://github.com/Clifford537/Ambulance-system-dispatch-backend.git
+cd Ambulance_dispatch-backend
 ```
 
 ### 2️⃣ Install Dependencies
